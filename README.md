@@ -1,4 +1,3 @@
-The code cells indicate that the project involves Ethereum (ETH-USD) price prediction using machine learning and neural networks, with libraries like TensorFlow, Pandas, and Scikit-learn. Here's a tailored **README** based on the initial code context:
 
 ---
 
