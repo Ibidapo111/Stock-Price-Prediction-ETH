@@ -2,7 +2,7 @@ The code cells indicate that the project involves Ethereum (ETH-USD) price predi
 
 ---
 
-# Ethereum Price Prediction using Machine Learning
+# Ethereum Price Prediction using LSTM
 
 ## Overview
 This project focuses on predicting the future prices of Ethereum (ETH-USD) using historical financial data and deep learning's long-short term memory techniques. The project leverages various tools for data preprocessing, scaling, and applying deep learning models like Long Short-Term Memory (LSTM) to forecast Ethereum prices.
