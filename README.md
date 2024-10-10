@@ -5,7 +5,7 @@ The code cells indicate that the project involves Ethereum (ETH-USD) price predi
 # Ethereum Price Prediction using Machine Learning
 
 ## Overview
-This project focuses on predicting the future prices of Ethereum (ETH-USD) using historical financial data and machine learning techniques. The project leverages various tools for data preprocessing, scaling, and applying deep learning models like Long Short-Term Memory (LSTM) to forecast Ethereum prices.
+This project focuses on predicting the future prices of Ethereum (ETH-USD) using historical financial data and deep learning's long-short term memory techniques. The project leverages various tools for data preprocessing, scaling, and applying deep learning models like Long Short-Term Memory (LSTM) to forecast Ethereum prices.
 
 ## Project Structure
 - `ETH.ipynb`: The main Jupyter notebook where Ethereum price prediction models are built and evaluated.
@@ -34,11 +34,11 @@ pip install numpy pandas scikit-learn matplotlib tensorflow
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ethereum-price-prediction.git
+   git clone https://github.com/Ibidapo111/Stock-Price-Prediction-ETH.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ethereum-price-prediction
+   cd Stock-Price-Prediction
    ```
 3. Open the `ETH.ipynb` notebook to view the code and run the prediction model.
 
@@ -67,5 +67,3 @@ Feel free to contribute to this project by forking the repository and submitting
 This project is licensed under the MIT License.
 
 ---
-
-This README reflects the key components of your Ethereum price prediction project. Let me know if you need any additional modifications!
