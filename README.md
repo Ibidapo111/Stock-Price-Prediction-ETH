@@ -27,7 +27,7 @@ To run this project locally, you'll need the following libraries:
 
 You can install these dependencies using:
 ```bash
-pip install numpy pandas scikit-learn matplotlib tensorflow
+pip install -r requirements.txt
 ```
 
 ## Getting Started
