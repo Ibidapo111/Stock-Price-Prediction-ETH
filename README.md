@@ -24,6 +24,7 @@ To run this project locally, you'll need the following libraries:
 - `scikit-learn`
 - `matplotlib`
 - `tensorflow`
+This requirement can be automatically installed by running the  command line below
 
 You can install these dependencies using:
 ```bash
