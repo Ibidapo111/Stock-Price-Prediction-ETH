@@ -18,7 +18,7 @@ This project focuses on predicting the future prices of Ethereum (ETH-USD) using
 - **Visualizations**: Plots showing price trends and predictions vs. actual prices.
 
 ## Requirements
-To run this project locally, you'll need the following libraries:
+To access and run  this project locally, you'll need the following libraries:
 - `numpy`
 - `pandas`
 - `scikit-learn`
