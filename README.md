@@ -7,7 +7,7 @@
 This project focuses on predicting the future prices of Ethereum (ETH-USD) using historical financial data and deep learning's long-short term memory techniques. The project leverages various tools for data preprocessing, scaling, and applying deep learning models like Long Short-Term Memory (LSTM) to forecast Ethereum prices.
 
 ## Project Structure
-- `ETH.ipynb`: The main Jupyter notebook where Ethereum price prediction models are built and evaluated.
+- `ETH.ipynb`: The main Jupyter notebook where Ethereum price prediction models are built & evaluated.
 - `data/`: Directory where the historical ETH-USD price data is stored (you may need to fetch or provide your own dataset).
 - `README.md`: Overview and instructions for the project.
 
