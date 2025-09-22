@@ -50,7 +50,7 @@ pip install -r requirements.txt
 1. **Preprocessing**: The dataset is preprocessed by normalizing the features using MinMaxScaler from Scikit-learn.
 2. **Model Training**: The LSTM model from TensorFlow is trained on the preprocessed data to predict future Ethereum prices.
 3. **Visualization**: After training, the model's predictions are compared with actual prices, and the results are visualized.
-
+...
 ## Results
 - The LSTM model provides future price predictions for Ethereum based on historical data.
 - Visual comparisons of predicted vs. actual prices are provided.
